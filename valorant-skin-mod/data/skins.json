@@ -1,0 +1,15 @@
+{
+  "Vandal": {
+    "Prime": {"id": 1, "color": "#FFD700"},
+    "Reaver": {"id": 2, "color": "#8B0000"},
+    "Elderflame": {"id": 3, "color": "#FF4500"}
+  },
+  "Phantom": {
+    "Oni": {"id": 4, "color": "#00BFFF"},
+    "Spectrum": {"id": 5, "color": "#FF69B4"}
+  },
+  "Operator": {
+    "Dragon": {"id": 6, "color": "#32CD32"},
+    "Ion": {"id": 7, "color": "#C0C0C0"}
+  }
+}
